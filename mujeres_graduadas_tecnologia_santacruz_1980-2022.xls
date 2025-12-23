@@ -1,0 +1,384 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8856</WindowHeight>
+  <WindowWidth>23040</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+  </Style>
+  <Style ss:ID="s68">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s69">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Graduadas Tech 1980-2022">
+  <Table ss:ExpandedColumnCount="6" ss:ExpandedRowCount="44" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="62.400000000000006"
+   ss:DefaultRowHeight="14.4">
+   <Column ss:AutoFitWidth="0" ss:Width="54.599999999999994"/>
+   <Column ss:AutoFitWidth="0" ss:Width="60.6"/>
+   <Column ss:AutoFitWidth="0" ss:Width="41.4"/>
+   <Column ss:AutoFitWidth="0" ss:Width="57.6"/>
+   <Column ss:AutoFitWidth="0" ss:Width="67.8"/>
+   <Row ss:Height="43.199999999999996">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">País</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Ciudad</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Año</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Número de Graduadas</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Nota Mayor de Graduación</Data></Cell>
+    <Cell ss:StyleID="s64"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">1980</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">79.45</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">1981</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">76.95</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">1982</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">84.02</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">1983</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">81.36</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">1984</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">77.400000000000006</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">1985</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">77.19</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">1986</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">82.82</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">1987</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">81.25</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">1988</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">75.290000000000006</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">1989</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">79.95</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">1990</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">11</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">79.47</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">1991</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">84.24</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">1992</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">11</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">83.75</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">1993</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">16</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">82</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">1994</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">18</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">78.319999999999993</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">1995</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">16</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">83.32</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">1996</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">17</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">87.85</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">1997</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">83</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">1998</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">23</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">84.9</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">1999</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">22</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">80.14</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">2000</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">35</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">83.52</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">2001</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">41</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">93</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">2002</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">52</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">87.11</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">2003</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">56</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">87.4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">2004</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">62</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">89.3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">2005</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">62</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">91.34</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">2006</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">74</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">89.46</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">2007</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">77</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">87.2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">2008</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">83</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">86.08</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">2009</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">86</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">91.1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">2010</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">105</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">93.14</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">2011</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">120</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">83.94</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">2012</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">133</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">83.15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">2013</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">145</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">91.27</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">2014</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">148</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">92.76</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">2015</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">168</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">91.51</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">2016</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">200</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">85.75</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">2017</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">224</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">90.84</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">2018</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">234</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">84.56</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">2019</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">252</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">89.75</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">2020</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">230</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">96.31</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">2021</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">249</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">88.39</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Bolivia</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Santa Cruz</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">2022</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">298</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">89.09</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveCol>4</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
